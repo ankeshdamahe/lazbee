@@ -1,0 +1,2 @@
+# lazbee
+For creating wordlist
